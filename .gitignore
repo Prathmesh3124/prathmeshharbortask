@@ -1,0 +1,8 @@
+jobs/
+.harbor/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.DS_Store
